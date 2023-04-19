@@ -1,0 +1,65 @@
+* {
+    
+    background-color: #ebecf0;
+    text-align: center;
+}
+
+a {
+    text-transform: none;
+}
+
+head {
+    position: static;
+}
+
+h1 {
+    margin: 0;
+    text-transform: uppercase;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 100px;
+}
+
+h1.main {
+    font-size: 200px;
+    margin: 0;
+}
+.Stark {
+    text-decoration: none;
+    color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    margin-top: 0;
+
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-family: "Lucida Console";
+    margin: 0px;
+}
+ul {
+    text-align: left;
+    list-style-position: inside;
+    list-style-type: none;
+}
+
+#Wario {
+    border: silver solid 1px;
+    width: 500px;
+    height: auto;
+}
+#bigwords {
+    margin: 50px;
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
