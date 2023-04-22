@@ -39,23 +39,32 @@ h3 {
 }
 
 p {
+    width: 800px;
     font-family: "Lucida Console";
-    margin: 0px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
 }
+
 ul {
     text-align: left;
     list-style-position: inside;
     list-style-type: none;
 }
+#aboutme {
+    margin-top: 20px;
+}
 
+#rubicks {
+    margin-top: 30px;
+}
 #Wario {
     border: silver solid 1px;
     width: 500px;
     height: auto;
 }
-#bigwords {
-    margin: 50px;
-}
+
 footer {
     position: fixed;
     left: 0;
