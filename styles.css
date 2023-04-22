@@ -39,7 +39,7 @@ h3 {
 }
 
 p {
-    width: 700px;
+    width: 850px;
     font-family: "Lucida Console";
     margin-top: 20px;
     margin-left: auto;
@@ -64,7 +64,10 @@ ul {
     width: 500px;
     height: auto;
 }
-
+p.footer {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 footer {
     position: fixed;
     left: 0;
